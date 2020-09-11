@@ -33,7 +33,7 @@
     <body>
         <header>
             <h1>SETMS</h1>
-            <h2>The Securely Encrypted Task Management System</h2>
+            <h2>The Safe Encrypted Task Management System</h2>
         </header>
         no siema
 		<?php // isset($body) ? $this->load->view($body) : redirect(base_url()); ?>
