@@ -1,5 +1,5 @@
 <?php
-
+/*
 function redirect_ssl() {
     $CI =& get_instance();
     $class = $CI->router->fetch_class();
@@ -15,3 +15,4 @@ function redirect_ssl() {
         if ($_SERVER['SERVER_PORT'] == 443) redirect($CI->uri->uri_string());
     }
 }
+*/
